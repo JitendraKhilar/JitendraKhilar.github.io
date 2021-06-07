@@ -48,12 +48,12 @@ html, body {
 }
 
 @media(max-width: 768px) {
-      @keyframes typewriter {
+     @keyframes typewriter {
             from {
                   width: 0;
             }
             to {
-                  width: 8.7em;
+                  width: 21.5em;
             }
       }
 }
